@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Blessd Uade Idon a.k.a Donbless
+- 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me donbless0527@gmail.com; uazybaba@gmail.com
