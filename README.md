@@ -5,7 +5,7 @@
 # - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27
 
 <div id="header" align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gcflearnfree.org" width="100"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fclassroomclipart.com" width="100"/>
 </div>
 
 # - 👀 I’m interested in programming
