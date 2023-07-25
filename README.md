@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=blue" alt=""/>
+</div>
 
 # - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27
 # - 👀 I’m interested in programming
@@ -22,7 +25,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" username="@OluUade" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
