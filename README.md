@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=blue" alt=""/>
+<div id="badges" align="right">
+  <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=red" alt=""/>
 </div>
 
 # - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27
