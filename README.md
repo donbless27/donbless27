@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=red" alt=""/>
 </div>
 
+<img src="https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif" width="400">
+
 # - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27
 # - 👀 I’m interested in programming
 # - 🌱 I’m currently learning Software Engineering
