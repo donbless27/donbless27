@@ -1,12 +1,17 @@
-<div id="header" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="right">
   <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=red" alt=""/>
 </div>
-
+<div align="center">
 <img src="https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif" width="400">
-
+</div>
 # - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27
 # - 👀 I’m interested in programming
 # - 🌱 I’m currently learning Software Engineering
