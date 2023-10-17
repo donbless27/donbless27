@@ -7,12 +7,12 @@
 </div>
 
 <div id="badges" align="right">
-  <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=donbless27&style=flat-square&color=red" alt="" width="300"/>
 </div>
 
-# - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27
+# - 👋 Hi, I’m Blessed Uade Idon a.k.a Donbless27 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Nigeria
 # - 👀 I’m interested in programming
-# - 🌱 I’m currently learning Software Engineering
+# - 🌱 I’m currently learning Software Engineering 
 <!---
 donbless27/donbless27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -76,3 +76,16 @@ solid cube_corner
 endsolid
 ```
 
+---
+
+### 🧭: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/c/c-original-wordmark.svg" tittle="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/linux/linux-original-wordmark.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
