@@ -19,12 +19,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<img src="https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif" width="400">
+<img src="https://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif" width="200">
 </div>
 
 
 # - 📫 How to reach me;
-[linkedin Adress:](https://www.linkedin.com/in/blessedboy0527)  [Facebook:](https://www.facebook.com/oluwoleblessed.oluwole)  [Instagram:](@mrblessed27)  [Twitter:](@OluUade)
+[linkedin Address:](https://www.linkedin.com/in/blessedboy0527)  [Facebook:](https://www.facebook.com/oluwoleblessed.oluwole)  [Instagram:](@mrblessed27)  [X:](@OluUade)
 
 <div id="badges">
   <a href="your-linkedin-URL">
